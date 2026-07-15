@@ -116,7 +116,7 @@ Governments allocate budgets across multiple sectors such as education, healthca
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/global-master-budget-analysis.git
+git clone https://github.com/Mitaliborikar/global-master-budget-analysis.git
 ```
 
 ### Install Required Libraries
