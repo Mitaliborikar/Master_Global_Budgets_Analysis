@@ -141,7 +141,7 @@ Explore the dashboard here:
 
 ## 👩‍💻 Author
 
-**MItali Borikar**
+**Mitali Borikar**
 
 B.Tech Student
 
