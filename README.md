@@ -25,8 +25,8 @@ Governments allocate budgets across multiple sectors such as education, healthca
 ## 📂 Repository Structure
 
 ```text
-├── analysis.ipynb                     # Data cleaning and exploratory analysis
-├── analysis2.ipynb                    # Feature engineering and visualizations
+├── basic_analysis.ipynb                     # Data cleaning and exploratory analysis
+├── advance_analysis.ipynb                    # Feature engineering and visualizations
 ├── Master_Global_Budgets_Analysis.csv
 ├── Master_Global_Budgets_Highlights.csv
 ├── Pie_Chart_Data.csv
@@ -127,7 +127,7 @@ pip install pandas numpy matplotlib
 
 ### Run
 
-Open `analysis.ipynb` or `analysis2.ipynb` using **Jupyter Notebook** or **VS Code**, then execute all cells.
+Open `basic_analysis.ipynb` or `advance_analysis.ipynb` using **Jupyter Notebook** or **VS Code**, then execute all cells.
 
 ---
 
